@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+}
+
+main {
+  background-color: whitesmoke;
+}
+
+main p {
+  margin: 0 !important;
+  padding: 15px 0;
+}
+
+

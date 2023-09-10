@@ -1,0 +1,11 @@
+#header {
+    background-color: #5ca9ec;;
+}
+
+#header h1 {
+    line-height: 1.2;
+    margin: 0 !important;
+    padding: 10px 0;
+    color: #ffffff;
+    font-size: 45px;
+}
